@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "959538122846",
+    "project_id": "menopolis-10fad",
+    "storage_bucket": "menopolis-10fad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959538122846:android:bf25585061b4a24aeda4cf",
+        "android_client_info": {
+          "package_name": "com.example.untest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959538122846-p5u1jhdkh1estjunus0o1smgmji1n72v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFqKWxx0OS1oU8qqYxEkAE6OfnmCQf0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959538122846-p5u1jhdkh1estjunus0o1smgmji1n72v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959538122846:android:d5c7406e68c45b83eda4cf",
+        "android_client_info": {
+          "package_name": "com.gofitnext.gofitnext_appp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959538122846-p5u1jhdkh1estjunus0o1smgmji1n72v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFqKWxx0OS1oU8qqYxEkAE6OfnmCQf0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959538122846-p5u1jhdkh1estjunus0o1smgmji1n72v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959538122846:android:6f676d0dd9c01575eda4cf",
+        "android_client_info": {
+          "package_name": "com.proximum.proximum_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959538122846-mfdbra5210j2c06aqe7p8ne1mbfns94o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proximum.proximum_app",
+            "certificate_hash": "6efd62c9048419653304ed067ca0123292cc7aee"
+          }
+        },
+        {
+          "client_id": "959538122846-ngtr0i3r5f72k6a4klnrt5m10c1r6158.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proximum.proximum_app",
+            "certificate_hash": "c22a7878008aad852084b4f04f74654036ac4523"
+          }
+        },
+        {
+          "client_id": "959538122846-p5u1jhdkh1estjunus0o1smgmji1n72v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFqKWxx0OS1oU8qqYxEkAE6OfnmCQf0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959538122846-p5u1jhdkh1estjunus0o1smgmji1n72v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
